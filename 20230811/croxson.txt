@@ -1,0 +1,1626 @@
+Platform-based business models and financial
+inclusion!
+
+Karen Croxson (Financial Conduct Authority), Jon Frost (BIS), Leonardo Gambacorta
+(BIS) and Tommaso Valletti (Imperial College London)
+
+Preliminary version, 5 October 2021
+Abstract
+
+New players have entered finance, including fintech and big tech firms with digital
+platforms in e-commerce, search or social media. Increasingly, incumbent financial
+Institutions are also adopting platform -based business models. Digital platforms can
+dramatically lower costs and thereby aid financial inclusion, but these same features
+can give rise to digital monopolies. Platforms operate in multi-sided markets, and rely
+crucially on big data. This leads to specific network effects, returns to scale and scope,
+and trade-offs between efficiency and competition, financial stability and market
+Integrity, and data privacy and consumer protection. To reap the benefits of platforms
+for financial inclusion while mitigating risks, policy makers can choose to: (1) apply
+existing financial, antitrust and privacy regulations, (11) adapt old and adopt new
+regulations, combining an activity and entity-based approach, and/or (ll) provide new
+public infrastructures such as digital identity and retail fast payment systems. We
+argue that ex ante competition rules, data portability and public infrastructures are
+particularly promising. Central banks and financial regulators need to coordinate with
+competition and data protection authorities, and to consider complementarities with
+antitrust and tax policies.
+
+Keywords: financial inclusion, fintech, big tech, platforms.
+
+JEL classification: E51, G23, 031.
+
+With thanks to Stijn Claessens, Gregory Crawford, Patrizia Baudino, Johannes Ehrentraud, Bryan
+Hardy, Sebastian Doerr, Jermy Prenio, Marc Hollanders, Nikita Aggarwal, Vikram Haksar, Yan Carriere-
+Swallow, Ashraf Khan, Tonia Gilbert and numerous colleagues at the Bank for International
+Settlements (BIS) and Financial Conduct Authority (FCA) for comments. We thank Giulio Cornell,
+Alexandra End, Cornelius Nicolay and Huiming Yang for research assistance. The views expressed
+here are those of the authors and not necessarily of the BIS, FCA or the European Commission (EC).
+Tommaso Valletti was Chief Economist of the EC at the time of some competition cases discussed
+below. No confidential information about these proceedings has been disclosed.
+
+Platform-based business models and financial inclusion 1
+1. Introduction
+
+Over the past decade, a variety of new players have entered financial services —
+including fintech firms (specialised in technology-enabled financial innovation) and
+big tech firms (large technology companies whose primary activity is platform-based
+digital services).º The presence of fintech and big tech firms in financial services is
+growing especially rapidly in emerging market and developing economies (EMDEs).
+Ih response, a number of incumbent bank and non-bank financial institutions are also
+moving to a platform model by making greater use of big data and automation to
+offer third-party services, such as digital payments, credit insurance and wealth
+management, to their existing customers.? This entails a change to the traditional
+business model, of financial institutions, where firms seek to match different groups
+of clients In the market.
+
+The move to platform-based business models is changing market structure in
+financial services. While platforms can harness powerful economic forces to achieve
+efficiency gains and greater financial inclusion for the unbanked, there are open
+questions about the level playing field, and new and complex trade-offs between
+efficiency and competition, financial stability and data privacy (BIS, 2019; Carriêre-
+Swallow and Haksar, 2019; Feyen et al, 2021). Where platforms collect large amounts
+of data for a variety of different business lines, this may lead to network effects and
+economies of scale and scope. At the same, big tech firms have the potential to
+become dominant through the advantages afforded by the so-called data-network-
+activities (DNA) feedback loop, raising competition concerns.º The heavy use of
+personal data raises important data privacy issues. Because platform-based business
+models differ from traditional modes of offering financial services and the rules that
+govern these, there is the potential for regulatory arbitrage.
+
+Some of these issues may be more pressing ih the post-pandemic world.
+Platforms can help to offer financial services remotely and thus to meet the increasing
+demands for payments, credit, savings and insurance online and without the risk of
+physical contact.º This has helped to promote financial inclusion in a world in which
+more activities moved online. Some firms have even used their platforms and
+personal data to help combat the pandemic (Cantú et al, 2020). At the same time,
+issues around privacy and competition have been accentuated. Big tech firms have
+seen rapid growth in their core business lines, such as e-commerce (Alfonso et al,
+2021) and platforms will likely have greater market power and influence going
+forward. Meanwhile, the economic consequences of the pandemic have put pressure
+on households and firms that borrow from both fintech and big tech lenders and
+
+? See FSB (2017), Philippon (2020) and Frost (2020) for overviews.
+
+3 See EY (2020). Some institutions, such as BBVA, Santander, HSBC and Citi explicitly refer to their
+strategy for creating a banking platform to offer third-party services. Meanwhile, payment card
+networks — which have long operated in multi-sided markets — have acquired other firms in a bid to
+become “networks of networks”.
+
+? For instance, in the UK, Google and Facebook have already been found dominant in the online
+advertising market. See UK Competition and Markets Authority (2020): “Both are now protected by
+such strong incumbency advantages -— including network effects, economies of scale and unmatchable
+access to user data — that potential rivals can no tonger compete on equal terms.”
+
+5 During the pandemic, not only face-to-face activities but even physical means of payment have led
+to concerns about potential transmission of the Covid-19 virus. For a discussion of concerns about
+viral transmission through cash and the implications for digital payments, see Auer et al (20202).
+
+2 Platform-based business models and financial inclusion
+from incum bent financial institutions. This has tested new credit models, highlighting
+potential financial stability issues.
+
+Public authorities across the globe have responded to the entry of fintech and
+big tech firms, and the growth of platform-based business models with a variety of
+regulatory and supervisory approaches to harness benefits while mitigating risks.
+Many countries have set up innovation facilitators, such as sandboxes, hubs and
+accelerators (see UNSGSA FinTech Working Group and CCAF, 2019; Cornelli et al,
+2020b). Others have adopted new licensing regimes and updates to existing
+regulation to account for new entities and activities (Ehrentraud et al, 2020). Ih general
+though, fintech has not yet inspired major modifications to the overall structure of
+prudential regulation. To date, core rulebooks on prudential safeguards, consumer
+protection and market integrity have been broadly unaffected. Yet there are growing
+concerns about policy trade-offs and the level playing field, and some major
+Jurisdictions are moving to more ex ante, entity-based policy measures (Restoy, 2021;
+Crisanto et al, 2021a; b). Platform -based business models could require further policy
+reforms in the future.º In particular, if platforms are to enhance access to financial
+services without dominating markets, then proactive policies may be necessary.
+
+This paper discusses the implications of platform-based business models in
+financial services for financial inclusion, market structure and regulation. We argue
+that the economic features that make platforms so powerful in lowering costs and
+supporting financial inclusion are the same features that give rise to digital
+monopolies. They may raise significant risks to fair competition, and aggravate
+consumer protection, financial integrity, and financial stability risks, and therefore can
+create conflicts between various central bank and regulatory objectives. Given the
+novelty of the challenges and rapid changes in markets, it is critical that authorities
+learn from one another and from the experience of other industries. With a well-
+informed, ex ante competition policy approach, data portability and appropriate use
+of public infrastructures, platforms can be harnessed to enhance financial inclusion
+while maintaining competitive markets and other policy goals.
+
+This paper is organised as follows. Section 2 gives a primer on platform
+economics to help explain how platforms reduce costs and thus enhance inclusion,
+but also some of the potential risks and market failures. Section 3 looks at evidence
+on the impact of platforms on financial inclusion from EMDEs and an advanced
+economy — the United Kingdom. Section 4 sketches a range of possible policy
+approaches to reap benefits and mitigate risks of platform -based business models in
+finance, arguing for ex ante competition rules, data portability, public infrastructures
+and policy experimentation. Finally, section 5 concludes.
+
+As discussed below, many governments and competition authorities have been reflecting on new
+tools and/or potential changes to the regulatory regime to ensure that digital platforms can be
+regulated effectively, with a particular concern being the ability of platforms to leverage into
+“adjacent” markets. À common proposal in many jurisdictions has been the creation of a specialist
+digital unit to develop concentrated expertise in digital markets. See for example the advice of the
+Digital Markets Taskforce to the UK Governmentin December 2020 recommending the establishment
+of a Digital Markets Unit. This has recently been established.
+
+Platform-based business models and financial inclusion 3
+2. Platform economics: a primer
+
+Platform-based business models are prevalent in a number of sectors of the modern
+digital economy, including telecommunications, online (e-)commerce, and
+increasingly in financial services. A (multi-sided) platform can be defined as a set of
+Institutional arrangements that brings together two or more different types of
+economic agents and facilitates trade between them (Evans and Schmalensee, 2014).
+The interactions on platforms overcome frictions and generate economic value. Using
+digital technologies, platforms may lower search frictions and make verification and
+tracking less costly (Goldfarb and Tucker, 2020).
+
+What is central to platforms is the potential for externalities among the various
+sides; one side (providers) may attach value to wider acceptance by the other side
+(users) and bigger networks may entail a higher probability of finding a trading
+partner. Examples of different sides on platforms include drivers and passengers on
+a ride-hailing app, and apartment owners and tourists on a hospitality platform. In
+financial services, they include — increasingly — borrowers and savers on a fintech app,
+or retail clients and financial service providers on social media, search or e-commerce
+platforms.
+
+Because externalities such as network effects make the providers' and users' (ie
+all participants”) decisions interdependent, coordination issues arise. Platforms
+perform an intermediary function that makes it possible to bring participants together
+and facilitate their interactions. Since network effects, when positive, imply that the
+value of such interactions depends on the number of participants, platforms take
+measures to attract a large number of users and encourage participation. The largest
+digital platforms use massive volumes of (personal) data, which allow for much more
+efficient matching but also for network effects and “tipping" of markets in favour of
+dominant platforms (Jullien and Sand-Zantman, 2020). With size also comes market
+power, and the potential to leverage it.
+
+Features of platform-based markets
+
+Platform dynamics are typically characterised by different phases. Ih an early phase
+of market development, there is intense competition where platforms try to
+differentiate themselves, and at the same time attract as many participants as
+possible, at least from one side of the market (eg users). Often in this initial phase
+there is very little monetisation, if any at all, and platforms may even be loss-making.
+Positive network effects generate “attraction loops”, by which higher activity makes it
+more attractive for each group member to increase her activity level — like the DNA
+loop noted above. This leads later to winner-takes-all (or winner-takes-most)
+situations (Belleflamme and Peitz, 2021). Over time, markets with platforms have the
+flavour of natural monopolies. Once a monopoly position is established, platforms
+may monetise this by charging higher prices, and the market may become stuck in a
+sub-optimal equilibrium.
+
+Payment card networks are one long-standing example of a platform in financial services. Recently,
+the entry of fintech and big tech firms, and new strategies by incumbent financial institutions, have
+led to a proliferation of digital platforms in other areas of finance including, asset management, credit
+and insurance.
+
+4 Platform-based business models and financial inclusion
+In typical natural monopolies, increasing returns are due to supply-side
+economies of scale. In contrast, in platform markets, increasing returns can also arise
+from the demand side: when a platform grows by attracting more users, it is not (just)
+that the average cost per user goes down, but also that the average revenue per user
+goes up — because some users are willing to pay more to be on a bigger platform. Of
+course, increasing returns on the demand side and the supply side may also
+complement each other. Additionally, there may also be returns to scope, ie benefits
+to platforms that have multiple business lines, in particular because of their control
+Over massive amounts of (personal) data on users. The characteristics leading towards
+natural monopolies can reinforce each other. For instance, the use of artificial
+intelligence (AI) involves high fixed costs, and it makes more sense to invest in a
+strong Al team if there are a variety of applications for them to work on.
+
+Competition between platforms has several key features, which are already
+apparent in the early work of Arthur (1989). A first feature is path dependence, ie the
+final outcome depends on the way early adoption builds up. A second feature is lock-
+ih effects: on the demand side, users are reluctant to switch between platforms,
+implying that a latecomer platform finds it difficult to overcome the gap with the
+iIncumbent, and that this gap grows over time. A third feature is a potential
+inefficiency, as the platform that “wins” the market may not be the one that is
+inherently superior. A lack of competition coming from the first two features may lead
+to an inferior service or provider becoming entrenched.
+
+Counterbalancing forces to market concentration
+
+Although positive externalities such as network effects can drive markets towards
+monopoly structures, there exist other forces that can counterbalance this tendency.
+Some of these forces arise from competitive strategies enacted by rivais, while others
+rely on some degree of regulatory intervention.
+
+Starting with the former (market forces), the winner-takes-all or winner-takes-
+most tendency can be moderated if competitors pursue differentiation strategies. À
+smaller platform can compensate the lower network benefits that it generates by
+offering better quality services and services that cater to particular consumers' tastes
+and are sufficiently differentiated from those of its competitors. For instance, a social
+media platform may differentiate itself from competitors by targeting a certain type
+of social interaction (eg professional networking or photo sharing). A platform
+offering banking services may distinguish itself by specialising in high privacy
+protection (eg private banking for high net-worth individuals), or in developing
+services uniquely catered to the needs of an underserved societal group (eg migrants
+sending cross-border remittances). This may allow for multiple players in the market,
+though there may not be much competition for individual users.
+
+Multi-homing, that is, the possibility of users to utilise more than one platform
+at the time, also plays a central role in mitigating the tendency for network effects to
+lead to winner-takes-all situations.º Multi-homing, intuitively, allows agents to benefit
+from all available externalities and potentially the services of all available platforms.
+Multi-homing sounds very appealing and promising, but it is often not easy to
+achieve in practice. One reason has to do with consumer behaviour: users might be
+able to compare several options when joining a certain platform service, but then opt
+
+$ For the example of the credit card industry, see Rochet and Tirole (2008). The term “multi-homing” is
+
+borrowed from the internet literature and refers to users' participation in multiple platforms.
+
+Platform-based business models and financial inclusion 5
+for only one solution; think for instance of a phone and internet bundle. Most people
+do not own several subscriptions and may show inertia ih switching. In many platform
+environments, users seem to be affected by several behavioural biases, such as not
+looking for alternatives to their default suggestions. This creates considerable
+frictions to a multi-homing environment. Another reason might be related instead to
+less innocent strategies put In place by incum bent platforms to make multi-homing
+particularly costly to users.º
+
+As a side remark — but an important one — single or multi-homing refers to a
+particular group of users, not necessarily to the whole platform in a multi-sided
+market. For instance, there are instances where for various reasons one side of the
+market single-homes while the other side will want to or need to multi-home. For
+instance, we may use a single credit card, own a single phone or browse one preferred
+online newspaper, while merchants need to accept most credit cards, individuals
+receive calls from multiple providers and advertisers want to show their ads in
+multiple news outlets. This can generate a situation of so-called “competitive
+bottlenecks”", in the sense that the side that needs to multi-home has no other way
+than using the platform on which the particular single-homing buyer is active.
+Platforms therefore do not compete for this side (the “bottleneck” feature) but may
+compete for the other side. For instance, credit card providers may offer rewards to
+entice retail users, while levwying high interchange fees on merchants. This situation
+has generated many regulatory interventions, most notably mobile termination rates
+ih telephony, and interchange fee caps for credit cards.
+
+These observations lead to the second type of force that can mitigate
+concentration and monopolies, namely regulation, The most important regulatory
+policy is arguably to enforce interoperability. Platforms are interoperable if the users
+of one platform are able to interact with the users of another platform.
+Interoperability plays a similar role to multi-homing, in that the implications of
+choosing a particular platform do not prevent users from interacting with users on
+the other platform. Ih an important sense, interoperability allows us to keep most of
+the efficiencies of platform economics (positive externalities), but ensures that these
+externalities are available to all at the industry level, and do not accrue uniquely to a
+single firm, leading to dominance. The most salient case possibly comes from
+telecoms: we can call anyone, independently from the device, operating system and
+telecom operator. Additionally, thanks to regulatory interventions in many
+Jurisdictions, when we change device, operating system or telecom operator, we do
+not lose our phone number or contact numbers and can port them across platforms.
+This is why, despite network externalities playing a big role in telecoms, we still are
+able to witness some degree of competition among telecoms operators.
+
+In financial services, for example, interoperable payment systems can facilitate
+competition and lead to greater efficiency in payments, both domestically and across
+borders. Regulatory interventions can help to open “"closed-loop”" payment systems
+like those of AliPay, WeChat Pay and M-Pesa and to allow for a level playing field (BIS,
+2020). “Open Banking”, which allows users to securely share banking data with third
+
+For instance, Google is used as a search engine by well over 90% of Europeans. This may well relate
+to Google search being a high-quality search engine. However, Google (which also owns the Android
+operating system) made it extremely difficult for a competing search engine such as Microsoft's Bing
+to be installed on Android devices by way of bundling practices and contractual arrangements with
+phone manufacturers. These practices were sanctioned by the European Commission with a fine of
+over €£4bn euros. Notice that Google also pays an undisclosed amount to Apple in order to be
+installed also as search engine on iOS devices.
+
+6 Platform-based business models and financial inclusion
+parties through application programming interfaces (API) pursuant to the Second EU
+Payment Services Directive can allow competitors to offer services based on the same
+user data (Open Banking in the UK is discussed in more detail in Section 3).
+
+Yet given the sensitivity of retail transaction data, it is important that
+interoperability goes hand-in-hand with adequate protections to ensure privacy. Ih
+some countries in which central banks have contributed to public infrastructures, as
+in India, this has gone along with rules regarding how data are collected and whether
+providers have control over them (D'Silva et al, 2019; Carriêre-Swallow et al, 2021). Ih
+these cases, it is often possible for users in different networks (eg Google Pay and
+Facebook's WhatsApp Pay) to transact with one another, just as clients using different
+banks can send and receive transfers across the same payment infrastructure.
+Customers may also have control over their payment data. A further considerations
+defining liability, le which party is responsible 1h the case of a data breach. Finally,
+interoperability may have to be supported by competition (antitrust) policy and other
+policy tools in the hands of various public authorities. Indeed, interoperability is one
+of the key proposals in the Digital Markets Act (DMA), a legislative proposal of the
+European Commission to deal with dominant digital companies (defined as
+"gatekeepers”), discussed in section 4.
+
+Implications of platforms in financial services
+
+Overall, in financial services, platforms may enhance efficiency in key respects. Ih
+particular, they can use big data and new digital technologies to lower the cost of
+financial services for users and serve previously unmet customer demands. This could
+allow services to achieve a large scale very rapidly, and thus to achieve powerful
+benefits for financial inclusion. For example, Philippon (2020) constructs a model of
+fintech platforms offering robo-advice. A new technology lowers the fixed cost per
+customer of providing services (possibly to zero, as robo-advisors operate online and
+do not need staff to interact with a customer), but maintain a high fixed cost overall
+(the cost of developing good algorithms). This should lead to a net positive for
+consumers — what we could term “value-creating innovation", which adds to overall
+consumer surplus. It may even benefit poorer consumers disproportionately, as they
+will be served at lower marginal cost and cross-subsidised by wealthier consumers.
+However, the model also recognises the potential for big data to lead to biases, new
+forms of discrimination and exclusion (see also Morse and Pence, 2020). One
+implication of the platform-based business model is that firms earn relatively more
+fee income rather than, say, net interest margins. Fee income often fits closely with
+the “matchmaking” business model, and lt does not require a balance sheet, with the
+need for market funding, financial regulation and supervision. For these firms, a key
+part of their franchise value is the value of their network and data.
+
+Given these features, new platforms could also introduce new risks associated
+with market power and data privacy. Ih particular, the high fixed costs of developing
+a successful platform may lead to more concentrated market structures. Overall, there
+is the potential for: (1) monopolistic behaviour and price discrimination, including
+through the use of big data; (1) anti-competitive behaviour, such as creating barriers
+to entry and "enveloping' competitors; (ill) algorithmic biases and exclusion; and (iv)
+violations of data privacy. While a platform could thus use its network and big data
+to enhance convenience and lower costs for users, it can also use this to capture
+economic rents and impose externalities on others.
+
+Platform-based business models and financial inclusion 7
+As an illustration, Graph 1 compares the consumer surplus, monopoly surplus
+and welfare under different market structures.º The classic model of perfect
+competition is given in panel A: the market clears at point A, where the (downward-
+sloping) demand curve meets the (horizontal) supply curve, at marginal cost (PJ.
+Consumers who value the product (1h this case a financial service) at more than the
+market price obtain a consumer surplus (denoted in blue). The classical pure
+monopoly is given in panel B: a monopolist sets the price at a higher level, Pm, above
+marginal cost, thus leading to a lower quantity being consumed (Qrm) and a monopoly
+surplus (denoted in red). For digital platforms, big data may help to predict the
+willingness of individual users to pay for services very accurately, allowing platforms
+to engage |n price discrimination, le charge the highest price that each user would be
+willing to pay. With sophisticated algorithms, a monopolistic platform could identify
+each consumer's reservation price, and set a personalised price just below it to
+capture rents. This may be called “value-extracting innovation". Compared to perfect
+competition or pure monopoly without the use of big data, a digital monopoly (panel
+O) offers higher rents to the platform. Crucially, if the platform has lower costs per
+user, It may be able to serve the clients with a low reservation cost, at price Pp thus
+bringing new (previously unserved) users into the financial system. In this market
+structure, some (eg wealthier) users will pay higher prices for the same service than
+other (eg lower-income) users, thus increasing the overall quantity of services
+provided and enhancing financial inclusion. At the same time, the platform will
+capture a large monopoly surplus.
+
+Furthermore, there may be the potential for digital platforms to offer financial
+services to a greater extent than would be economically efficient (“value-destroying
+innovation”). Ih cases where preferences can be manipulated, ie platforms can entice
+users to overestimate the benefits from services or to pay even more than their
+reservation price (eg by sharing valuable personal data), such users could be even
+worse off. Ih this case, overall welfare could be lower (panel D). Such manipulation
+might arise by capitalising on known behavioural biases. Such advantages could also
+be obtained by an incum bent, for instance, by not allowing a competitor to emerge.
+
+Illustrative market structures: from competition to market manipulation
+
+Graph 1
+
+A. Perfect competition B. Pure monopoly C. Digital monopoly D. Preference manipulation
+
+PÁ PÁ
+
+io À PD,
+>
+% A AQ Aa VQ
+EM Consumer surplus Em Monopoly surplus
+Welfare (dead weight) loss - incl, perceived surplus
+
+Source: Boissay et al (2021); authors' elaboration.
+
+* Thisexample draws on Boissay et al (2021), with a few modifications relevant to our later discussion.
+
+8 Platform-based business models and financial inclusion
+The point here is that the information in the hands of a specific platform provider
+might have dramatic implications for consumers, according to the underlying market
+structure. To the extent that over time we are getting closer and closer to algorithms
+that can "learn' about individual preferences, one can imagine — prospectively at least
+— approaching the text-book case of first-degree price discrimination, that is, each
+consumer is a relevant market. To the extent that competition exists for this
+consumer, this can imply extremely intense rivalry, so that the consumer benefits the
+most. Conversely, the worst situation for a consumer is one where only one platform
+know this detailed information, and lts rivals do not. This leads, in principle, to a case
+where the entire consumer surplus is extracted by a dominant platform.
+
+While this latter situation may sound just like a hypothetical and academic
+scenario, it may nevertheless be important to pause and think, in practice, how big
+data could change the very nature of competition in the financial sector, particularly
+ih services like credit and insurance. The premise of competition In credit and
+Insurance is typically one of imperfect and incomplete information, where the
+customer knows something about her characteristics and potential risky behaviour
+that financial institutions do not know, and they try to elicit this information over time
+and via contractual incentives. Imagine now that a platform firm, like Google, enters
+the insurance market. Google would know information about each customer, such as
+browsing behaviour, apps downloaded and used, videos watched, e-mails written (or
+drafted but unsent!), and much more. For instance, Google might know that an
+individual goes on gambling websites. This information may put Google in a special
+position vis-à-vis potential competing insurers that are unable to access similar
+information. (In this example, Google may determine that accessing gambling sites
+correlates with riskier behaviour in other domains and choose not to sell insurance to
+the individual, leaving it to the pool of customers available to competitors, which
+therefore deteriorates). Data protection laws may prevent or curtail Google's ability
+to exploit wider information it holds about individuals,"* but clearly potential
+competition considerations may arise. Competition may no longer take place
+between similarly imperfectly informed providers and an originally level playing field
+could be tilted in favour of one firm only. The use of wider personal data may be
+efficient, but we still recall that in panel C, consumers enjoy a lower consumer surplus
+than in the other panels.
+
+More generally, big tech platforms such as Google, Facebook, Amazon, Alibaba
+and Tencent have the incentive and ability to expand into other businesses, especially
+other platform markets, in order to acquire the data generated in those markets. The
+same may hold for larger fintech firms and incumbents that have a range of business
+lines and platform models. They have accumulated large datasets about individual
+consumers that they can combine with payments data in order to deliver products
+that traditional banks cannot replicate, as in the insurance example above. Banks then
+risk being 'enveloped' (de La Mano and Padilla, 2018), where the platform operator
+typically bundles services that cannot be replicated by traditional players, ultimately
+
+For instance, in the European Union, the General Data Protection Regulation (GDPR) limits the use of
+personally identifiable information, particularly 'sensitive' information such as health data, and gives
+users rights inter alia to securely share information with other firms if they so choose (so-called “right
+to data portability”, Art 20 GDPR). There is considerable debate, however, as to whether the GDPR is
+currently being enforced in an effective way Europe.
+
+Platform-based business models and financial inclusion 9
+leading to market tipping in the banking sector, too.!? In principle, financial services
+could also help platform operators to tip other markets. For example, If a consumer
+is buying a car or a refrigerator, and a platform operator offering financial services
+like loans or insurance knows consumer preferences and creditworthinessin real time,
+this may help it to tip these markets, as well. A platform operator may also steer users
+toward its own (or its preferred partners”) financial services, for instance by putting
+these offers at the top of a list of offers.'?
+
+Finally, given the centrality of personal data in platform-based services and
+business models, there is the potential that, even in competitive markets, those users
+who are not willing to provide such data may be excluded from potential benefits
+such as quicker and cheaper credit or insurance products. New research shows, for
+instance, that women are generally less willing to share personal data than men in
+exchange for better offers on financial services (Chen et al, 2021). Similar findings
+hold for older users (Carlin et al, 2019). If data on these users are unavailable, there is
+the risk that providers of financial services — whether new fintech or big tech
+platforms, or incum bents using digital technologies — will consider these users to be
+higher-risk. Ih this way, the move to digital platforms could exacerbate financial
+exclusion, social inequality and the “digital divide”, by further excluding already less-
+advantaged social groups.
+
+3. The experience to date with platform-based finance and
+financial inclusion
+
+Empirical evidence to date suggests that new platforms in finance have helped to
+advance financial inclusion overall, in some cases dramatically. In particular, mobile
+money and other platform-based services have already led to impressive gains in
+access to payment services, credit, insurance and wealth management, especially in
+EMDEs. There have also been positive signs on inclusion in advanced economies,
+including the UK.
+
+Evidence on platforms and inclusion from EMDEs
+
+At the global level, the proportion of adults with an account with a financial institution
+or mobile money service rose from 51% in 2011 to 69% in 2017 (World Bank, 2018).
+Mobile money platforms played a particularly crucial role in increasing access in sub-
+Saharan Africa, using telecom munications networks to offer low-cost payments and
+other financial services by phone to large numbers of users. As of 2019, a full 79% of
+
+12? — Envelopment refers to entry by one platform provider into another provider's market by bundling its
+functionality with that of the target, so as to leverage shared user relationships. See Eisenmann et al
+(2011).
+
+13 —Asan additional example, in credit, one of the biggest drivers of insolvency are divorce proceedings.
+This is generally not known and hence cannot be used by traditional banks. Yet big tech providers
+may be able to infer from browsing behaviour, e-mails, transaction or geolocation data if an individual
+is having an affair, if a couple is in marriage counselling or if they are likely to be divorced in the near
+future. This knowledge, gleaned from big data and machine learning, and perhaps not even clear to
+the (human) staff of a platform provider, can give an incomparable advantage to platform lenders.
+These providers may automatically decline from showing a credit product to that individual, meaning
+that this potential borrower (“lemon”) is left for traditional competitors. The level playing field may
+then be compromised and competition would suffer.
+
+10 Platform-based business models and financial inclusion
+adults in Kenya had a mobile money account (CBK-KNBS-FSD, 2019). Mobile money
+platforms have proliferated across Africa, and a growing ecosystem of fintech
+platforms and incumbent financial institutions use mobile money networks to reach
+their customers (CCAF, 2020).
+
+In China, digital platforms have enabled dramatic bounds in financial inclusion,
+with support from public policy and regulation (Hua and Huang, 2020; Luohan
+Academy, 2019). Ant Group (1.3 billion users) and Tencent (900 million users) offer
+low-cost payments, credit, insurance and savings products to hundreds of millions of
+users, leveraging their parent groups' activities in esccommerce and social media,
+respectively. Recently, further platforms like Pinduoduo (680 million users), Meituan
+(480 million users) and JD.com (440 million users) have rolled out competing payment
+products. Ih lending, empirical evidence suggests that big tech lending has helped to
+overcome local credit supply frictions and increase credit access for small firms (Hau
+et al, 2020). Big tech credit has also reduced the need for costly collateral, and hence
+the relationship between lending and asset prices (Gambacorta et al, 2020). Ih
+Investment, Ant Group offers what was, until January 2020, the largest money market
+fund (MMFP) ih the world, Yuwebao (“Leftover treasure”), while Tencent offers users
+access to MMFs through its Licaitong platform. The Chinese big tech platforms have
+become major providers of insurance products, for instance through their “mutual
+aid” offerings, which allow small users to pool costs from unexpected health
+emergencies — an activity outside of existing frameworks for health insurancein China.
+In late 2020, proposed guidelines by the China State Administration for Market
+Regulation (SAMR) and China Banking and Insurance Regulatory Commission (CBIRO)
+set out measures to limit monopoly risks and increase retention requirements for
+lending (see section 4).
+
+Ih India, platforms have become major players in payments, building on public
+infrastructures like the digital ID system Aadhaar (1.3 billion users as of September
+2021) and retail fast payment system Unified Payment Interface (UPI) (D'Silva et al,
+2019). Notably, UPl is a platform operated by a consortium of incum bent banks and
+the central bank, yet it has allowed for greater competition and interoperability
+between bank and non-bank payment providers. Google processed 820 million
+transactions in October 2020 through its Google Pay offering; Walmart's PhonePe,
+introduced by the e-commerce platform Flipkart, became the largest payment
+provider on UPI with 835 million transactions (Singh, 2020). Amazon Pay, Ant Group-
+backed Paytm and Facebook's WhatsApp Pay are also significant players in payments.
+A range of P2P platforms operate in credit markets, and both Amazon and Google
+have partnerships with financial institutions to offer credit through their platforms.
+Overall, the combination of public infrastructures and privately operated platforms
+by fintech firms, big tech firms and incumbent financial institutions has helped India
+to increase access to transaction accounts from 10% in 2008 to over 80% of Indian
+adults today. Survey evidence shows that 87% of digitally active Indian adults used
+fintech services as of 2019 (EY, 2019).
+
+Progress has been similarly impressive in other Asian countries, where big tech,
+fintech and incumbent-run platforms are proliferating rapidly. In Indonesia, for
+instance, ride hailing apps like Grab and Go-Jek have also become large providers of
+payments and other financial services, focused particularly on retail users. In Thailand,
+one incumbent financial institution — Kasikornbank — has increasingly parthered with
+both fintech and big tech providers, and non-financial firms, to offer third-party
+services to its clients. It has also taken efforts to serve the visually impaired and the
+elderly through a mobile banking interface that uses voice and vibration cues
+
+Platform-based business models and financial inclusion e
+(Banchongduang, 2016). In the Philippines, platforms have dramatically reduced the
+cost of onboarding new clients. This became particularly relevant when the Covid-19
+pandemic broke out; thanks to digital platforms, over 4 million users were able to
+remotely open an account in March and April 2020, alone (De Vera-Yap et al, 2020).
+
+Ih Latin America, meanwhile, platforms have in some cases been effective at
+reaching the informal sector. In Argentina, credit from e-commerce platform Mercado
+Libre was able to serve borrowers who would otherwise lack access to bank credit
+(Frost et al, 2019). In Peru, the publicly run Bilteteria Móvil (BIM) platform has allowed
+for interoperability between e-money providers, which has facilitated government
+transfers to informal workers and filled gaps in inclusion in rural areas (Del Carpio
+Ponce, 2018; Sotomayor et al, 2018).
+
+Platforms in finance have thus proven to be remarkably scalable. For instance,
+fintech credit platforms, which connect borrowers and savers directly, have emerged
+Ih nearly every major economy around the world. Lending volumes are generally
+larger where existing banking sector mark-ups are higher and regulation is more
+conducive (Claessens et al, 2018; Rau, 2020; Beaton and Bazarbash, 2020). Some have
+argued that fintech credit and other forms of crowdfunding can play an important
+role in financial inclusion if an enabling and safe environments in place Jenik et al,
+2017). Meanwhile, big tech is scaling even more rapidly. In sub-Saharan Africa, Asia,
+and Latin America, telecoms, e-commerce platforms and ride-hailing apps are
+offering an increasingly wide range of financial (and non-financial) services, and
+collecting ever more data through the data-network-activitles feedback loop. In
+addition to their large foothold in payments, big tech firms are becoming increasingly
+important in credit markets (Graph 2, left-hand panel). Many big tech lenders lend to
+small and medium-sized enterprises (SMEs), using the data from e-commerce and
+other online activities to more accurately predict default (Frost et al, 2019). Among
+EMDEs, lending by big tech platforms is particularly relevant in China, Kenya,
+Indonesia and Russia (right-hand panel).
+
+Global big tech credit is booming, overtaking fintech credit Graph 2
+Big tech credit is overtaking fintech credit! Global lending is small, but larger in some economies
+USDbn USD mn, logarithmic scale Per cent
+750 —100,000 25
+600 10,000 2.0
+|) 450 1,000 15
+HM 300 100 1.0
+[ 150 10 | DS
+—
+|— — mm 1 | | emo o Do
+2013 2014 2015 2016 2017 2018 2019 CN US JP KR GB ID NL RU KE DE
+Lending volume: INI Fintech'' IM Big tech Lending volume (Ihs):;? Ratio to total stock of credit (rhs):?
+Em Fintech e Total alternative credité
+mm Big tech
+
+1 Fintech credit is lending facilitated by electronic (online) platforms that are not operated by commercial banks. Big tech credit is credit
+extended or facilitated by large companies whose primary activity is digital services (big tech firms). ? Data for 2019. 3 Domestic credit
+provided by the financial sector. Data for 2018. º Total alternative credit is defined as the sum of fintech and big tech credit.
+
+Source: Cornelli et al (2020).
+
+12 Platform-based business models and financial inclusion
+The dramatic adoption of fintech and big tech is also visible in data on app
+downloads, aggregated by Sensor Tower from the Google Play and Apple App stores
+(the two dominant platforms for smartphone apps). In advanced economies, fintech
+payment apps have seen rising adoption, especially since 2014, while big tech
+payment apps have ticked up since 2019, including during the Covid-19 pandemic
+(Graph 3, left-hand panel). In EMDEs, big tech payment apps have seen several
+discrete waves of adoption and dramatically greater take-up over time. Notably, there
+is also greater concentration among finance apps in EMDEs, as measured by the
+Herfindahl-Hirschmann Index (HH) for downloads (right-hand panel). In both AEs
+and EMDEs, downloads of payment apps offered by incumbents has been much lower
+during the same period.
+
+Downloads of payment apps by fintech firms, big tech firms and incumbents' Graph 3
+
+Advanced economies
+
+Emerging market economies
+
+Millions of downloads Index Millions of downloads Index
+LL)
+18 450 30 e : 750
+[L)
+L)
+12 300 20 500
+- tejo
+6 150 10 | 250
+o E Vo 2 pm
+RENSNNSCNSNS SNS! | RESSENSNSSSSCNSNSNSSSSNSSSCNSSNS SESC
+2013 2015 2017 2019 2021 2013 2015 2017 2019 2021
+Payment app downloads (lhs): INE Big tech ENEM Fintech MM Incumbent financial institutions — Rhs: e HHI?
+
+HHI = Herfindahl-Hirschman Index of market concentration.
+
+17 Downloads of all payment apps among the top 50 finance apps as classified by Sensor Tower. “Fintech" refers to apps by new entrants
+specialised in financial technology; “big tech" refers to apps by large technology companies whose primary activity is digital services, rather
+than financial services, and “incumbent financial institutions" refers to apps from commercial banks, insurers, card networks and other financial
+institutions. ? Yearly average; calculated on the top 50 finance apps as dassified by Sensor Tower.
+
+Sources: Sensor Tower; authors' caleulations.
+
+Evidence on platforms and inclusion from the UK and other advanced
+economies
+
+Itis not only in EMDEs that fintech, big tech and incumbent platforms are contributing
+to financial inclusion. There are also key examples from advanced economies, where
+access to transaction accounts, credit and other services is higher than EMDEs, but
+certainly not universal. In particular, the UK provides an interesting case study for
+development of platform-based offerings and fintech solutions, including some
+Innovations that can improve financial inclusion. As an economy with a high degree
+of innovation!* and a regulatory approach that explicitly targets greater competition
+
+1º  Forinstance,the world's first fintech credit platform — Zopa — was launched in the UK in 2006. London
+is home to large incumbent financial institutions in banking, insurance and asset management, and
+recently, the UK is home to a large and diverse ecosystem of fintech providers, as well as hosting
+several international big tech firms.
+
+Platform-based business models and financial inclusion 13
+and better consumer outcomes, the UK can provide insights that may be relevant for
+other economies, whether advanced, emerging or developing.
+
+Open Banking was introduced in the UK in 2018, as the local implementation of
+the EU-wide Second Payment Services Directive (PSD2), with the aim of stimulating
+increased competition and innovation in the financial services industry. Customers
+can register with banks or authorised organisations (third-party providers) and
+Instruct their existing bank to let them access their payment account details via a
+secure system. Over 200 firms regulated by the Financial Conduct Authority (FCA) are
+now enrolled in Open Banking 1h the UK. Among them are a number of fintech firms
+developing innovative solutions targeted at helping lower-income, financially
+vulnerable individuals or traditionally underserved groups.
+
+Some of these innovations are designed to help underserved groups to manage
+their cash flow more effectively or improve how they save. For example, apps may
+help individuals to save and invest small amounts with each spending transaction,"?
+set aside a portion of their salary for saving of bill pay'º or advise clients on how much
+and where to save." Other fintech firms are exploiting Open Banking to help
+individuals build out their credit profiles and access financing more easily. These
+platform-based models may help users to build a credit history," gain access to
+mortgage loans'" or protect themselves from financial fraud and scams.ºº
+
+Beyond Open Banking powered tools, the UK's fintech ecosystem has generated
+other examples of platform -based innovation designed to broaden access to financial
+services for underserved users. This includes ultra-short term car insurance,º* support
+to homeless individuals for opening a basic bank account? and using cash to buy
+
+1? —UkK-based Moneybox helps individuals save and invest by exploiting Open Banking to monitor a
+person's spending, round up their purchases (eg on a coffee) to the nearest British pound, and then
+move the “spare change” into savings or investments for the individual.
+
+Wagestream is an Open Banking-powered tool to enable employees at registered firms to access a
+portion of their salary as it is earned (eg on a weekly basis) and then budget more effectively by
+allocating their earnings to certain bills or save directly from their pay. They can also access financial
+education resources.
+
+Plum offers a savings app that links to a person's bank account, analyses their income, expenses and
+spending habits and helps to set aside an affordable amount for savings. It can also help people
+review their spending, understand where they may be overpaying on bills and engage a utility
+switching service.
+
+Canopy lets users leverage Open Banking to track successful rental payments and have these
+automatically counted on their credit reports. This can help those with lower income and/or limited
+credit histories build up their credit scores and overcom e “thin file” problems in accessing credit.
+
+Mojo is an online mortgage broker combining credit and open banking data to improve access to
+mortgage lending by generating a MortgageScore for them, giving them advice to improve this and
+support to compare deals across lenders and understand the best option for them.
+
+*?º —Kalgerais using Open Banking to safeguard elderly and vulnerable people from financial fraud and
+
+scamsin a way that allows them to retain their autonomy. The app alerts authorised relatives or carers
+to unusual activity on the individual's accounts, but without sharing account details or enabling them
+to move money.
+
+*?? — Cuwa provides ultra-short term car insurance (eg for a few hours) to enable users to borrow or pool
+
+friends cars. To achieve this, Cuvva queries various data sources to check driving licence data, the
+Claims and Undenwriting Exchange, and automated fraud protection, and integrates with Facebook
+so that customers can see which of their friends have cars to borrow. The FCA's Innovation Hub
+supported the firm to understand how its new model could fit into the regulatory framework. It is
+
+now authorised and operational.
+*?? — ProxyAddress, a UK start-up, has just launched a pilot to enable homeless individuals to open a basic
+
+bank account by providing them with a proxy "fixed address' for use in the on-boarding process. The
+
+14 Platform-based business models and financial inclusion
+items from online merchants.? In each case, start-ups use a platform-based model
+and big data to make available a service that may otherwise be too costly or subject
+to uncertainty to be performed,
+
+The impact of these innovations is visible in aggregate indicators of inclusion
+such as the FCA Financial Lives Survey. Between April 2017 and February 2020, the
+proportion of adults who used a mobile app to undertake day-to-day banking
+activities rose by 17 percentage points, to 59%. The rise was relatively larger for
+women, and was also apparent for users with characteristics of vulnerability in the
+areas of health, life events, resilience and capability (Graph 4, left-hand panel). The
+share of adults who are digitally excluded, meaning poor or non-existing digital skills
+as assessed in the survey, fell in the same period (right-hand panel).
+
+Innovative platform-based approaches can also be seen in other advanced
+economies. Ih the United States a number of non-bank financial services providers,
+such as Kabbage, LendUp and Petal, are using cash-flow data in order to provide
+unsecured, short-term credit to consumers and small and medium-sized businesses
+who othenwvise would struggle to access loans due to lack of traditional credit history.
+FinRegLab studied six of these providers empirically, finding that the cash-flow
+metrics used had predictive power for credit risk and the participants were being
+served who historically would have faced constraints on their ability to access credit.º?
+One study suggests that fintech credit platforms tend to have greater activities in
+localities underserved by traditional banks (Jagtiani and Lemieux, 2018). Meanwhile,
+big tech platforms are becoming increasingly active in payments and credit markets.
+Amazon lends to small businesses through its merchant sellers programme (Amazon,
+2018). Google has announced co-branded accounts with eight US banks through
+Google Pay, aiming to attract new users while building on existing bank systems
+(Moeser, 2020).
+
+Meanwhile, some big tech platforms explicitly emphasise the benefits of their
+products for financial inclusion.?º Some have proposed new initiatives in payments
+such as stablecoins, often explicitly referring to the challenges of financial inclusion
+and cross-border remittances.º* It is too early to assess the extent to which these
+initiatives will deliver on financial inclusion goals, or whether inclusion is merely being
+used as part of the marketing. Indeed, similar to the term “greenwashing” for firms
+that overstate their environmental contributions, some industry specialists refer to
+“inclusion washing" in financial services. In EMDEs, where access to financial services
+is very low, welfare gains for financial inclusion could be quite large. In advanced
+
+aim is to enable customers at risk of financial exclusion to maintain access to a safe repository of
+funds, and an ability to receive wage payments which can support their transition out of
+homelessness. The firm has been accepted into the FCA regulatory sandbox.
+
+*? —One new UK-based start-up is developing technology to help people use cash to buy items from
+online merchants. While cash use is declining, cash remains an important payment method for many,
+including some vulnerable consumers and small businesses. This product may help to allow users
+who prefer or depend on cash to participate in e-commerce and the digital economy more generally.
+
+*? — FinRegLab, “The use of cash flow data in undenwriting credit: empirical research findings” July 2019,
+https://finreglab.org/Avp-content/uploads/2019/07/FRL Research-Report Final.pdf
+
+*” —SeeegonAntFinancial https://www.businesswire.com/news/home/20200115005313/en/Ant-
+Financial-Debuts-World's-Leading-Fintech-Conference, and on Goodle:
+https://pay.gooagle.com/intl/en in/about/.
+
+*  Seeeglibra:
+https://libra.ora/en-US/wp-content/uploads/sites/23/2019/06/LibraWhitePaper en US.pdf.
+
+Platform-based business models and financial inclusion 15
+economies, where financial services are widely available and especially credit markets
+are already very deep, such benefits may be smaller.ºº?
+
+Use of mobile apps for banking in the UKis rising, as digital exclusion declines
+
+In per cent Graph 4
+Increase in share of adults who used a mobile app to Share of adults who are digitally excluded by age and
+undertake day- to-day banking activities! gender (April 201 17 Feb 2020)?
+
+í : É 75 ; :; 50
+
+: : S : : :
+: = 60 40
+ml E: RS bm 45 : : 30
+: * = :
+: : = :
+õ : E : 30 ; : 20
+S ;
+| : - 15 10
+se)
+: + 0 o é pm = E Em o
+|| Í
+e leu sa a ul; EEN NE = = e Es E
+= & ls é E é & E *|l* z E Sig 3% E 3 Ef
+| | Oatacióristios E |
+Gender | Age ] | Gender Age
+| | | Guias rabilia? | !
+EH Percentage increase, 2017-2020 EEN 2017 — EEE 2020
+
+1 Share of all UK adults who have undertaken day-to-day banking activities in the last 12 months (April 2017: 2472 respondents / February
+2020: 4,089 respondents), excluding 'don't know' responses (1%/0%). ? Derived through an algorithm processing the survey results, to
+identify whether respondents display at least one of the four drivers of vulnerability, namely health, life events, resilience and capability. For
+more details, see https://www.fca.org.uk/publication/research/financial-lives-survey-2020.pdf. 3 All UK adults (April 2017: 12,865
+respondents / February 2020: 16,190 respondents).
+
+Source: UK FCA Financial Lives Survey (FLS), April 2017 / February 2020.
+
+Evidence on platforms and concentration
+
+In financial services, the tendency toward greater market concentration through
+platforms is already visible. lh particular, some big tech players have already achieved
+dominant market positions, particularly in payments in EMDEs. The two big tech
+platforms AliPay and WeChat Pay have grown rapidly and jointly control 94% of the
+Chinese mobile payments market (Graph 5, left-hand panel). Ih India, on UPI, there is
+somewhat more competition, but two big tech providers control 85% of the market
+by transaction value (right-hand panel), and a similarly high proportion by transaction
+volume (number of transactions). In many countries in sub-Saharan Africa, mobile
+money operators have become systemically important providers.
+
+*” Fora discussion of the link between financial inclusion and macroeconomic goals in EMDEs and
+
+advanced economies, see Sahay et al (2015).
+
+16 Platform-based business models and financial inclusion
+BigTechs dominate digital payments in China and India Graph5
+
+Share of the “Big Two" in mobile payments in China'* Market shares in India's UPI
+Market share, % CNY trilions — Index Percent of transaction value
+100 3,900 100
+FER ETESEsssssTss==
+" e
+re 3,800 75
+º
+50 o 3,700 50
+25 3,600 25
+o — a ms 3,500 o
+12 13 14 15 | o E 1 (o
+q 03 2020 Q1 nm = 2021
+Lhs: e Sum of the market share of ivo) and er
+: . . Lhs: e HHI Rhs: NM Big tech — Incumbent
+Rhs: Transaction value of mobile payments on ma Finteckh MM Other apps
+
+Em Alipay EN Tenpay
+— — Other third-party mobile payment providers in China
+
+HHI = Herfindahl-Hirschman Index of market concentration.
+? Market shares for 2012 are estimated based on market evidence. ? Tenpay includes WeChat Pay and QQ Wallet.
+
+Sources: analysys.cn; Statista, Industries; National Payments Corporation of India (NPCI); A Carsten, S Claessens, F Restoy and H S Shin (2021),
+"Regulating big techs in finance”, BIS Bulletins, no 45; authors' calculations.
+
+Globally, the recent spike in merger and acquisition activity by large digital
+payment firms (Graph 6, left-hand panel) suggests that there are trends toward
+growing concentration in payment markets. In this figure, the size of the bubble
+represents the market capitalisation of the acquiring com pany, while the height in the
+graph represents the deal size. It is notable that some of the largest deals have been
+horizontal acquisitions, ie the acquiring of direct competitors by card networks and
+payment processors (blue dots). In other cases, vertical acquisitions have taken place
+(red dots). These deals allow payment firms to now perform “in-house” activities for
+which they previously required vendors — implying a greater bundling of payment
+services. Such M&A deals (shown in blue in the right-hand panel) are generally small
+compared to the overall market capitalisation of the platform companies (shown in
+red). Yet deals were particularly large in 2019, when companies operating digital
+payment platforms spent nearly 10% of their market value on acquiring other
+companies. This related in part to “mega-deals" such as those by FIS and Worldpay,
+Fiserv and First Data, and Global Payments and TSYS. In 2020 and 2021, such activity
+has slowed again.
+
+There is mounting evidence that M&A deals may influence the incentives for new
+entry into financial services, particularly if large com panies acquire platform providers
+before they can build a sufficiently large network (Kamepalli et al, 2020; Cornelli et al,
+2021). Moreover, there is also the potential for big tech platform providers to halt
+their own innovation efforts when acquiring a competitor with similar capabilities —
+so-called "reverse killer acquisitions” (Caffarra et al, 2020).
+
+Platform-based business models and financial inclusion 7
+Payment platforms have embarked on a buying spree'
+
+Graph 6
+
+Merger and acquisition (M&A) activity by selected global Total M&A volume spiked in 2019, reaching over 10% of
+
+payment platforms has proliferated since 2017 overall platform market cap
+Purchase price in millions of US dollars, logarithmicscale = USD bn
+
+10,000 1,600
+
+oO
+e sn º 1.000 1,200
+
+Per cent
+
+: 10.0
+ro
+co. ..
+Dm: L) o
+: | e o, oe 100 800 5.0
+o e. e. AQ o
+eo, º% 10 400 º kl 2.5
+Imrelbere bem hesme eee eme lee e da o == 0.0
+2014 2015 2016 2017 2018 2019 2020 2021 2014 2015 2016 2017 2018 2019 2020 2021
+Deal characteristics: e Vertical integration e Horizontal integration YTD
+
+Lhs: IIE M&A deal value — NNE Average total market capitalisation
+
+Rhs: €& Ratio of deals to market capitalisation
+
+1 For 2020, data up to 31 January 2021. Each dotin the left-hand panel represents an M&A deal by Ant Financial, Fidelity National Information
+Services (FIS), FISERV, Global Payments, Mastercard, PayPal, Square or Visa as collected by PitchBook and Refinitiv Eikon. This excludes
+divestitures and intra-company operations. M&A deals are classified as “vertical” when the acquiring and the target firm operate at different
+stages along the same payment chain, as determined by company reports. In “horizontal” deals, the acquiring and target firm are direct
+competitors in at least one key business line. The size of each dot is proportional to the acquiring company market capitalisation on the day
+of the deal or, in the case of Ant Financial, the valuation of Ant Financial as of end-2018, multiplied by changes in the market capitalisation of
+
+Alibaba Holdings relative to end-2018. The same sample is used in the right-hand panel.
+
+Sources: BIS (2020): “Central banks and payments in the digital era”, Annual Economic Report, ch 3, pp 67-96, June; authors' calculations.
+
+Platform models by incumbent financial institutions
+
+As discussed above, a number of Incumbent financial institutions have moved
+Increasingly away from a traditional, vertically integrated business model and toward
+a model that resembles the digital platforms of fintech and big tech providers. Ih
+particular, the growth of “banking-as-a-service" (BaaS) entails offering a range of
+third-party services to users, thus serving as a matchmaker between clients and
+external (often fintech) providers. This can imply new revenues from fees, rather than
+net interest income. But it requires strong investments in digital technology to collect
+user data and improve offers toward users that are comparable with the
+sophisticated, personalised offers of fintech and big tech platforms.
+
+Banks with a platform-based model may thus see a shift in the source of their
+revenues and in the required investment in digital technologies. Unfortunately, an
+objective classification of banks with a platform model is not available, and research
+on this shift in banking business models is scarce. Nonetheless, a simple comparison
+of prominent banks that note publicly that they use a platform or BaaS strategy
+reveals noticeable differences with international peers. Platform-based banks
+(denoted in red in Graph 6, left-hand panel) derived nearly 40% of their revenues
+from fees and other non-interest income in 2020, as compared to 33% for peers. They
+invested about 50% more than peers on communications, data processing and
+technology relative to overall expenditure.
+
+18 Platform-based business models and financial inclusion
+Revenue mix and IT investment of banks adopting a platform-based model
+
+In per cent of total revenues Graph 7
+Income composition Expenditure on technology
+40 6.3
+38 5.6
+36 4.9
+34 a  ——a = 42
+! | ! | | J ! 1 32 ! ! | | ! | | 135
+2013 2014 2015 2016 2017 2018 2019 2020 2013 2014 2015 2016 2017 2018 2019 2020
+Non-interest income:' == Bank with platform business model? Telecomm's, data processing and technology expense:*
+— Others? = Banks with a platform business model
+=— Others”
+
+1 Defined as total revenue minus net interest income. ? Basedona sample including BBVA, Capital One, Citibank, Deutsche Bank, HSBC,
+Kasikornbank, Santander, Standard Chartered and Wells Fargo. 3 Based on a sample of 258 banks with total assets above 50 USD
+bn. ? Expenses paid for communications, data processing and technology such as computers, software, information systems and
+telecommunications, as a proportion of overall expenditure. *? Based on a sample including BBVA, Capital One, Citibank, Deutsche Bank and
+Wells Fargo. É Based on a sample of 99 banks with total assets above 50 USD bn.
+
+Sources: S&P Market Intelligence; authors' calculations.
+
+4. Policy issues and options to reap benefits to inclusion
+while mitigating risks
+
+For public policymakers around the world, financial inclusion is a key policy goal —
+alongside mandates for financial stability, safety and soundness and consumer
+protection. Digital innovation has the potential to support inclusion, in particular
+access to safe transaction accounts that can serve as the basis for other financial
+services (CPMI and World Bank Group, 2020). As platform-based business models
+become increasingly widespread in finance, there is the potential for fintech firms, big
+tech firms and incumbent financial institutions to harness platforms to bring new and
+underserved groups into the financial system, and for com peting providers to provide
+cheaper and more tailored services. In some cases, digital technologies can play a
+powerful role in reducing costs and broadening access. Ih other cases, the causes of
+a lack of access are institutional, not technological; for instance, existing laws and
+regulation may not provide the private sector with the correct incentives to Innovate
+and include underserved groups. Where platforms are able to establish and entrench
+a dominant position, they may extract rents and fail to provide low-cost services for
+underserved groups.
+
+A key insight from both the theoretical and empirical literature is that platforms
+may lower costs for the providers, but may not effectively enhance financial inclusion
+on their own accord. Private platform operators pursue profit maximisation, subject
+to the constraints posed by regulation. To achieve tangible benefits for access to
+
+Platform-based business models and financial inclusion 19
+financial services, a “bush” from policy may be necessary. Measures to encourage
+interoperability, and complementary measures around supporting infrastructure and
+supporting consumer engagement and decision making, are crucial. Meanwhile, to
+prevent platforms from achieving a dominant market position or abusing sensitive
+user data, financial regulators may need to revisit existing rules and coordinate with
+other public sector authorities, notably competition and data protection authorities.
+
+In what follows, we discuss three types of approaches that policymakers may
+take. A first is to allow for private sector innovation — perhaps with “soft” guidance
+from authorities that innovation should aim to reach underserved groups in society —
+and simply to apply existing financial regulations, and antitrust and privacy rules This
+may be insufficient given the range of new issues that platforms raise. À second
+approach is to update existing regulatory frameworks in these areas to address the
+specific risks presented by digital platforms and to more proactively drive financial
+inclusion. There are challenges in this area, as business models are changing quickly
+lh some cases and regulation seeks to be as future-proof and “technologically neutral”
+as possible. Yet ex ante competition rules and requirements for data portability may
+be particularly effective. A third approachis to build public infrastructures that private
+Innovation can build on top of. This can include digital ID, retail fast payment systems
+and other reforms. Each are discussed in turn. Of course, especially the third approach
+can complement either of the first two.
+
+Apply existing financial regulation, competition and data privacy rules
+
+A first approach is to simply apply existing financial regulation, competition and data
+privacy rules to platforms (fintech, big tech and incumbents). Indeed, many
+authorities explicitly adopt a “same business, same risks, same rules” approach, and
+make clear to new entrants, or to incumbents responding to new entrants, that
+financial activities are subject to the same rule regardless of which institution is
+behind them. Ih particular, frameworks for licensing, regulatory reporting, deposit
+Insurance, capital and liquidity requirements, etc continue to apply as much to a
+fintech or big tech platform as to a traditional bank (see eg Crisanto et al, 2021a;b).
+Meanwhile, a bank offering third-party services to lts own clients maintains its
+responsibility for com plying with all relevant requirements.
+
+Yet this approach may not always be sufficient to ensure the public interest. Ih
+particular, financial regulation and competition law may not always be fast or agile
+enough to prevent concentration in fast-moving platform markets.ºº Moreover,
+problems could result if some activities do not fit neatly into existing frameworks and
+Ih those cases in which platforms do not provide services directly, or leverage their
+market dominance in adjacent markets. A silo mentality among some regulators may
+allow for some activitles — and risks — to fall into the cracks of existing regulation and
+supervision.
+
+Ih particular, there are questions as to how to harness the power and incentives
+of platform models while addressing other public policy goals like fair competition
+and privacy / data protection. The entry of platforms could enhance competition in
+
+?* —Inthe UK, for example, the Digital Markets Taskforce has suggested that an ex ante regime is needed
+to prevent powerful digital firms from exploiting their positions as well as to drive vibrant competition
+and innovation. See UK CMA (2020a; b). Penrose (2021) has argued that competition policy decisions
+need to be faster and more predictable in the digital era. The EC Google Shopping case took seven
+years to come to a decision (now under appeal), and the resulting remedies have not yet been
+formally accepted.
+
+20 Platform-based business models and financial inclusion
+the short run, but if not correctly managed, then competition could be lower in the
+longer run as big tech firms grow and become systemically important (FSB, 2019).
+Existing approaches to measure market dominance, based for instance on excessive
+pricing or measures of market share, may not always capture modern forms of market
+dominance — which may include anticompetitive practices to build market share, or
+serving as a vendor and competitor to the same firm (Khan, 2017). Where platforms
+engage in price discrimination, this may not be measurable to the regulator, and it
+may not be clear which market to use to measure market shares.
+
+Moreover, there may be trade-offs between some policy goals (Carriêre-Swallow
+and Haksar, 2019; Feyen et al, 2021). For instance, allowing for greater user of
+personal data may benefit efficiency, but could be detrimental to privacy. As an
+example of the potential trade-off, platforms providing access to previously
+underserved consumers (eg consumers with “thin files” in a credit scoring context)
+may depend on more personal data or a wider variety of data from individuals in
+order to provide a service viably (eg to price credit risk accurately. However,
+inadequate coordination between existing regulatory frameworks in many
+Jurisdictions — particularly data protection and financial regulation — means that there
+are unsatisfactory mechanisms in place for navigating these normative trade-offs
+(Agganval, 2021).
+
+Finally, there is a general issue of level playing field between traditional banking
+Institutions and platform-based firms given the possible information advantages of
+the latter (Padilla and de la Mano, 2018; Stulz, 2019). An activity-based regulatory
+approach can ensure that the same activities are subject to the same rules, regardless
+of provider. Yet there may be the need to complement this with an entity-based
+approach, particularly when platforms become very large or systemically im portant
+(Restoy, 2021; Carstens et al, 2021). This brings us to the next potential set of policy
+options.
+
+Update existing rules
+
+A second approach is to adapt old and adopt new financial, antitrust and privacy
+regulation. Some jurisdictions have already moved to update regulations to adapt to
+fintech and big tech entry.º This has included defining new types of licenses (eg for
+virtual banks), enhancing competition through application programming interfaces
+(APIs) and other tools to enhance data portability, and developing new ex ante
+regimes and data protection frameworks — which often extend beyond financial
+services. This section gives a brief overview. As discussed in section 2, a particularly
+promising approach is to enforce interoperability. The box gives inspiration from the
+European Union, where rules had to be adapted due to the emergence of new
+technological platforms in other sectors such as telecommunications.
+
+Ih financial regulation, a number of authorities have adapted rules to stipulate
+how digital platforms can enter banking and other financial services. In South Korea,
+China, Hong Kong and Chinese Taipei, authorities have introduced virtual banking
+licenses that allow for digital-only banks with targeted regulatory requirements; in
+Many cases, reaching underserved population segments is an explicit policy goal of
+such initlatives. In Kenya and many African economies, authorities have tailored
+regulatory frameworks to account for mobile money, thus bringing the financial
+activities of telecoms platforms into existing frameworks of financial regulation. Ih
+
+*? —Foranoverview of approaches by banking regulators, see BCBS (2018).
+
+Platform-based business models and financial inclusion 21
+Mexico, authorities passed a dedicated fintech law that includes financial inclusion as
+an explicit policy goal. In some cases, these frameworks have been adapted over time
+(Bourreau and Valletti, 2015). In late 2020, in response to the growth of an “originate-
+to-distribute" model by big tech platforms, the China Banking and Insurance
+Regulatory Commission (CBIRC) adapted rules on online lending and introduced a
+30% retention requirement on new loans.
+
+Notably, many regulatory initiatives relating to platforms in finance explicitly
+require data portability. As discussed in section 2, data portability can be particularly
+promising as it can promote interoperability and allow users to “multi-home” on
+different platforms. Open banking requirements in e.g. the EU, UK, India and South
+Africa allow users to port their financial data between banks and non-bank (platform)
+providers (BCBS, 2019). These initiatives can allow for greater user control over
+personal data, and for greater competition between providers. With the ability to
+initiate payments from non-bank providers, or to use bank transaction data to access
+credit, portability fram eworks can enhance access to payment and credit services, the
+number of available providers and the cost of services. We stress, however, that data
+portability must be carefully assessed against the risks to users' privacy; else there is
+considerable risk of a "race to the bottom” with lack of privacy and an explosion of
+negative (data) externalities for consumers.
+
+Ih competition policy, meanwhile, some jurisdictions have recently implemented
+broader measures — beyond financial services — aimed to regulate platforms ex ante
+ih the digital era. In the UK, the Digital Markets Taskforce has recommended the
+creation of a Digital Markets Unit (now established in shadow form) with new powers
+to support greater competition in digital markets. The Taskforce has proposed that
+there should be an ex ante code of conduct for the most powerful of digital firms. Ih
+the EU, the proposed Digital Markets Act and Digital Services Act, proposed in
+December 2020, would define new categories of “very large online platforms" and
+"gatekeepers” and subject these to specific ex ante requirements against self-
+preferencing and other anticompetitive behaviours. Ih the United States, the House
+of Representatives' Subcom mittee on Anti-trust, Commercial, and Administrative Law
+released a list of recommendations to regulate big tech platforms so as to reduce
+anti-competitive behaviour. In China, the State Administration for Market Regulation
+Ih November 2020 published draft guidelines to prevent monopolistic behaviour by
+internet platforms, promote fair market competition and safeguard the interest of
+consumers. Together, these measures show that a more proactive, entity-based
+approach to antitrust policy for platforms is being adopted globally, in many cases
+defining new frameworks and institutions to keep markets competitive.
+
+Existing and planned European interoperability policies
+
+The EU has a long history of using interoperability as a policy tool to overcome network effects and high switching
+costs in concentrated markets such as telecom munications, and foresees its use in a wide range of future digital
+
+services:
+
+* — The Access Directive (2002/19/EC) aims to “establish a regulatory framework... for the relationships between
+suppliers of networks and services that will result in sustainable competition, interoperability of electronic
+
+communications services and consumer benefits”. (81)
+
+22 Platform-based business models and financial inclusion
+* The Framework Directive (2002/21/EC) requires Member States to encourage the use of communications
+standards where required “to ensure interoperability of services and to improve freedom of choice for users”.
+(817)
+
+* — The European Electronic Communications Code (EECC, 2018/1972) aims to “implement an internal market in
+electronic communications networks and services that results in the deployment and take-up of very high
+capacity networks, sustainable competition, interoperability of electronic communications services, accessibility,
+security of networks and services and end-user benefits” (81(2)(a)). It includes provisions on instant messaging
+(*number-independent interpersonal communications service”) (861), which are yet to be used by the competent
+national authorities. In particular, authorities may impose, “in justified cases, where end-to-end connectivity
+between end-users is endangered due to a lack of interoperability between interpersonal communications
+services, and to the extent necessary to ensure end-to-end connectivity between end-users, obligations on
+relevant providers of num ber-independent interpersonal communications services which reach a significant level
+of coverage and user uptake, to make their services interoperable”.
+
+* — Competition lav enforcement by the European Commission required Microsoft to provide a choice of web
+browsers in its Windows operating system, and to allow workgroup software to network Windows PCs; and
+Google to provide a choice of default search engine in its Android browser, and to allow alternate specialised
+search engines to bid for inclusion in its main results page.
+
+* — TheDigital Future Communication explicitly mentions interoperability as part of the policies on 5G and 6G; digital
+health; elD; supercomputing; quantum technologies; blockchain; secure, pan-European cloud capacities; and
+exchange of electronic health records.
+
+* — The Communication on A European Strategy for Data states that data interoperability is key for the exploitation
+of data value, as well as a tool for increased competition by making it easier to switch between cloud providers.
+
+* — The European Commission is supporting the Member States to ensure their coronavirus contact tracing apps are
+interoperable, enabling travellers to be notified following a foreign trip if they were significantly exposed to
+someone who later tested positive.
+
+* The commonliy-called Platform to Business Regulation (2019/1150) also provides important underpinnings,
+relating to transparency and fairness of all “Intermediation services" and search engines linking businesses and
+corporate websites with consumers, including on access to data.
+
+Some types of interoperability have been imposed ex post, eg following investigation by the European
+Commission. Yet many competition economists judge these detailed and highly fact-specific cases too slow (seven
+years, in some cases), unpredictable, and narrow to provide the broader rules needed for effective digital competition
+(Furman et al, p.55).
+
+The recent major reviews of platform com petition for the UK government, DG Competition and US Stigler Center
+have all found the use of investigations followed by ex post remedies too slow to cope with these fast-moving
+technologies and markets. The UK Furman review concluded: “The key limitation of using market investigations as the
+legal basis for a pro-competition approachis that its remedies are largely static. Binding orders cannot be revised and
+updated as the nature of solutions needed changes... Relying on this model alone, under the powers currently
+available, is not sufficient in digital markets when technologies change but market power is durable. Specific rules
+imposed as a remedy following a market investigation may quickly go out of date. What is instead needed is an
+ongoing, dynamic counterparty to market participants, adjusting solutions in response to innovations and market
+dynamics" (Furman et al, p. 79). Regulations can set ex ante rules, while still leaving open the option for later
+enforcement of standard competition law.
+
+Finally, in data protection, a policy area that extends well beyond financial
+services, several jurisdictions are actively redefining rules in light of the growing use
+of personal data by platforms. Along with health data, financial data are often
+explicitly singled out as a sensitive area where special attention is warranted. The
+European General Data Protection Regulation (GDPR), California Consumer
+
+Platform-based business models and financial inclusion 23
+Protection Act (CCPA) and the proposed Personal Data Protection law in India are just
+a few examples of frameworks that give users data protection rights and impose
+obligations on providers to limit the (mis)use of personal data, including punitive
+sanctions for infringement. Data protection regulation frameworks are important for
+safeguarding consumer privacy and thereby preserving user trust; indeed, empirical
+evidence shows that even the poorest users in developing countries value their
+privacy and are willing to pay to preserve it (Fernandez Vidal and Medine, 2019).
+Again, data portability is often a key element of these regulatory frameworks, with
+the aim of enabling users to port their data between different providers — thus reaping
+the benefits for (financial) inclusion while mitigating anti-competitive effects due to
+data hoarding by platform providers, and more fundamentally, respecting their
+fundamental right to privacy and data protection by allowing users to better control
+how their data are used.
+
+Provide public Infrastructures
+
+Very often, private sector platform services are built on top of a public sector
+Infrastructure, such as government digital identity (ID) initiatives, enhancements to
+real-time gross settlement systems (RTGS) and retail fast payment systems (FPS). Such
+infrastructures can help to facilitate entry and ensure greater competition between
+platform providers.
+
+As one particularly salient example, authorities in India have worked in the past
+years to build several key public infrastructures that have achieved impressive results
+Ih inclusion. The Aadhaar digital ID infrastructure, the UPI for payments and the
+further architectures for data sharing and consent are collectively referred to as the
+“India Stack" (D'Silva et al, 2019). Notably, the India Stack has been particularly helpful
+ih allowing large digital platform providers to compete on an equal footing with
+banks and other non-bank payment services providers — harnessing the low costs and
+network effects of their platforms while preventing concentration of data and market
+power. One estimate is that the cost of opening a new account has fallen from USD
+15 to 7 cents, allowing much wider and more efficient onboarding (Ibid). To promote
+competition, the National Payments Corporation of India (NPCI), which operates UPI,
+recently moved to cap the market share of any third-party application provider to
+30% of the overall volume of transactions in any three-month period (NPCI, 2021).
+
+A number of further jurisdictions have designed RTGS systems to allow access by
+non-banks, including large platform providers. Examples include China, Hong Kong
+and Mexico. By allowing non-banks to access such core systems, central banks can
+promote greater competition and retail services built on settlement in central bank
+money.
+
+Central banks are also playing an active role in the operation and oversight of
+retail FPS. In Mexico, for instance, the central bank has launched the new Cobro Digital
+(CoDi) system. In Brazil, the central bank has launched the so-called PIX system
+(Alfonso et al, 2020). These retail fast payment systems have allowed for a dramatic
+Increase in the speed of domestic payments, and a substantial reduction in costs.
+Moreover, by bringing together bank and non-bank payment service providers on
+one platform with common standard, they too are promoting a competitive level
+playing field and countering the risk of “closed-loop” systems. Evidence suggests that
+this has been a powerful force for financial inclusion; for instance, in a sample of 28
+countries around the world, the only two countries in which women were at least as
+
+24 Platform-based business models and financial inclusion
+likely to use fintech services as men — India and Peru — both featured public payment
+infrastructures including a retail FPS (Chen et al, 2021).
+
+Finally, retail central bank digital currencies (CBDCs) can be seen as public
+infrastructures on a continuum with retail FPS.ºº CBDC projects like the Sand Dollar in
+the Bahamas aim explicitly at enhancing financial inclusion, and authorities in the
+United States have noted the potential of the digital dollar proposal to benefit
+financial inclusion.** A key difference between CBDCs and retail FPS is that CBDCs are
+a liability of the central bank, rather than a liability of a bank or payment service
+provider. Yet CBDCs, too, can be designed in such a way that private payment service
+providers, including big tech and fintech firms, offer retail services to the public.
+Indeed, in China, platform providers such as Ant Group, Tencent, Pinduoduo and
+others are offering payment services as part of the CBDC pilot of the People's Bank
+of China, and most of the advanced CBDC research and development projects around
+the world involve private sector parties for retail-facing services (see Auer et al,
+2020b).
+
+Domestic and international policy coordination
+
+Each jurisdiction will seek to tailor approaches based on their policy preferences,
+Institutional framework and capacity. Nonetheless, since the technologies behind
+platforms, and many platforms themselves, are global, there may be commonalities
+across countries and the potential for peer learning. International cooperation can
+support this process of learning from other authorities.
+
+At both the domestic and international level, it will be particularly crucial for
+central banks and financial regulators to work with competition and data protection
+authorities. Because central bank policies may impact on competition and data
+privacy, and because actions 1h these areas may im pact on core mandates of financial
+authorities (including mandates for financial inclusion in many jurisdictions), early
+dialogue is important to ensure consistency and coherence of policy approaches.
+Given the role of big tech platforms in particular in other sectors, and their
+Mmacroeconomic relevance, coordination with policy areas like telecommunications
+and tax policy will also be important.
+
+5. Conclusion
+
+Platform -based business models are changing market structure in financial services.
+Fintech and big tech entrants have already made substantial inroads in some market
+segments, and incumbent financial institutions are responding by increasingly
+moving closer to a platform model, themselves. By their very nature, platforms are
+highly scalable, making use of network effects and economies of scale and scope in
+multi-sided markets. In some cases, this has allowed them to lower costs and achieve
+impressive gains in financial inclusion. In other cases, lt has allowed them to serve
+3º — CBDCscan be defined as a digital payment instrument, denominated in the national unit of account,
+thatis a direct liability of the central bank. See Group of central banks (2020).
+
+3? In February 2021, for instance, Treasury Secretariat Janet Yellen noted: “We do have a problem with
+financial inclusion. Too many Americans really don't have access to easy payment systems and bank
+
+accounts. This is something that a digital dollar, a central bank digital currency, coutd help with." See
+Condon (20271).
+
+Platform-based business models and financial inclusion 25
+existing customers with new, more personalised offers. Yet often, these gains have
+been accompanied by pressing risks, particularly from market dominance, data
+privacy and financial stability given the potential for systemic importance of platform
+providers.
+
+A key insight from the experience to date is that platforms may not enhance
+financial inclusion of their own accord. Simply allowing entry by digitally savvy
+providers with low costs does not mean that they will necessarily serve the unbanked,
+uninsured and those without access to credit or savings products. Even when they do,
+they may not deliver the lowest cost service or beneficial outcomes for consumers.
+Indeed, a “push” from policy may be needed to ensure that innovation actually
+benefits financial inclusion and to protect a competitive environment that protects
+consumers, and does not necessarily clash with financial stability, price stability, or
+financial integrity. This may need to be accompanied by policies to improve access to
+digital infrastructure and to support consumer engagement and decision making.
+
+Going fonward, it is important to carefully assess the dual risks of market
+concentration and abuse of (personal) data by digital platforms. Regardless of the
+approach, it will be necessary for central banks and regulators, within their legal
+mandate, to work closely with competition and data protection authorities, and likely
+other public sector bodies, building on existing coordination and information-sharing
+mechanisms. There is also great value in peer learning across borders. While
+mandates and market developments differ, authorities can learn much from those
+who share their path.
+
+26 Platform-based business models and financial inclusion
+References
+
+Agganwval, N (2021). "The norms of algorithmic credit scoring,” The Cambridge Law
+Journal vol 80, no 1, pp 42-73.
+
+Alfonso, V, C Boar, J Frost, L Gambacorta and J Liu (2021), “E-commerce in the
+pandemic and beyond”, BIS Bulletin no 36, January.
+
+Alfonso, V, A Tombini and F Zampolli (2020), “Retail payments in Latin America and
+the Caribbean: present and future”, BIS Quarterly Review, December.
+
+Amazon (2018), “Small Business Impact Report”, 3 May.
+
+Arner, D, R Buckley, D Zetzsche and R Veidt (2020), “Sustainability, fintech and
+financial inclusion”, European Business and Organization Law Review.
+
+Arthur, W (1989), “Competing Technologies, Increasing Returns, and Lock-lh by
+Historical Events”, The Economic Journal, vol 99, no 394, pp 11631.
+
+Auer, R, G Cornelli and J Frost (2020a), “Covid-19, cash and the future of payments”,
+BIS Bulletin 3, March.
+
+--- (2020b), "Rise of the central bank digital currencies: drivers, approaches and
+technologies”, BIS Working Paper no 880, August.
+
+Banchongduang, S (2016), “Banking app to aid the visually impaired”, The Bangkok
+Post, 23 November.
+
+Bank for International Settlements (BIS) (2019), “Big tech in finance: opportunities and
+risks", BIS Annual Economic Report, Ch. Ill, 23 June.
+
+--- (2020), "Central banks and payments in the digital era”, BIS Annual Economic
+Report, Ch. Ill, 22 June.
+
+Basel Committee on Banking Supervision (2018), “Sound Practices: implications of
+fintech developments for banks and bank supervisors”, February.
+
+--- (2019), “Report on open banking and application programming interfaces”,
+November.
+
+Beck, T (2020), “Fintech and Financial Inclusion: Opportunities and Pitfalls”, ADBI
+Working Paper, no 1165, Tokyo: Asian Development Bank Institute, July.
+
+Belleflamme, P and M Peitz (2021), The Economics of Platforms, Cambridge:
+Cambridge University Press.
+
+Boissay, F, T Ehlers, L Gambacorta and HS Shin (2021), “Big techs in Finance: on the
+new nexus between data privacy and competition" in R Rau, R Wardrop and L Zingales
+(eds), The Handbook of Technological Finance, London: Palgrave Macmillan.
+
+Bourreau, M and T Valletti, “Competition and Interoperability in Mobile Money
+Platform Markets: What Works and What Doesn't?”, Communications & Strategies, n.
+99, 11-32, 2015.
+
+Caffarra, C, G Crawford and T Valletti (2020), “How tech rolls": Potential com petition
+and 'reverse' killer acquisitions”, voxEU, May.
+
+Cantú, C, G Cheng, S Doerr, J Frost and L Gambacorta (2020), “On health and privacy:
+technology to combat the pandemic”, BIS Bulletin no 17, May.
+
+Platform-based business models and financial inclusion 27
+Carlin, B, A Olafsson and M Pagel (2019), "Generational differences in managing
+personal finances”, AEA Papers and Proceedings vol 109, pp 54-59.
+
+Carriêre-Swallow, Y, and V Haksar (2019), “The Economics and Implications of Data:
+An Integrated Perspective”, IMF Departmental Paper no 19/16, September.
+
+Carriêre-Swallow, Y, V Haksar, and M Patham (2021), “Indias Approach to Open
+Banking: Some Implications for Financial Inclusion”, IMF Working Paper no 21/52,
+February.
+
+Carstens, A, S Claessens, F Restoy and HS Shin (2021), “Regulating big techs in
+finance”, BIS Bulletin no 45, August.
+
+Chen, S, S Doerr, J Frost, L Gambacorta and HS Shin (2021), “The fintech gender gap”,
+BIS Working Paper no 931, March.
+
+Committee on Payments and Market Infrastructures (CPMI) and World Bank Group
+(2020), “Payment aspects of financial inclusion in the fintech era”, April.
+
+Condon, € (2021), “Yellen Signals Interest in Backing Digital-Dollar Research”,
+Bloomberg, February.
+
+Cornelli, G, J Frost, L Gambacorta, R Rau, R Wardrop and T Ziegler (2020), “Fintech
+and big tech credit: a new database”, BIS working paper, No 887.
+
+Cornelli, G, S Doerr, L Franco and J Frost (2021), “Funding for fintechs: patterns and
+drivers”, BIS Quarterly Review, September.
+
+Crisanto, J, J Ehrentraud and M Fabian (2021a), “Big techs in finance: regulatory
+approaches and policy options”, FSI Brief no 12, March.
+
+Crisanto, J, J Ehrentraud, A Lawson and F Restoy (2021b), “Big tech regulation: what
+is going on?”, FSI Insights no 36, September.
+
+D'Silva, D, Z Filkova, F Packer and S Tiwari (2019), “The design of digital financial
+Infrastructure: lessons from India”, BIS Paper no 106.
+
+De Vera-Yap, C, R Barbosa-Salva, G Cainglet, L Cerrero, S Padilla, E Suficiencia, R
+Tomas and V Valero (2020), "Financial Digital Rails and Financial Inclusion”, in Bangko
+Sentral ng Pilipinas, BSP Unbound: Central Banking and the COVID-19 Pandemic in
+the Philippines.
+
+Del Carpio Ponce, P (2018), “Modelo Peru: A Mobile Money Platform Offering
+Interoperability towards Financial Inclusion”, International Finance Corporation (IFO)
+EMCompass, no 54.
+
+Digital Competition Expert Panel (2019), “Unlocking Digital Competition”, March.
+
+Ehrentraud, J, D García Ocampo, L Garzoni and M Piccolo (2020), “Policy responses to
+fintech: A cross-country overview”, FSI Insights, January.
+
+Eisenmann, T, G Parker and M van Alstyne (2011), “Platform Envelopment”, Strategic
+Management Journal, 32: 127085.
+
+Evans, D and R Schmalensee (2014), “The Antitrust Analysis of Multi-Sided Platform
+Businesses”, in R Blair and D Sokol (eds), The Oxford Handbook of International
+Antitrust Economics, vol 1, Oxford: Oxford University Press.
+
+EY (2019), “Global FinTech Adoption Index 2019”, September.
+
+--- (2020), “A vision for platform-based banking”, February.
+
+28 Platform-based business models and financial inclusion
+Fernandez Vidal, M and D Medine (2019), “Is Data Privacy Good for Business?”, CGAP
+Focus Note, Consultative Group to Assist the Poor, Washington, DC, December.
+
+Feyen, E, J Frost, L Gambacorta, H Natarajan and M Saal (2021), “Fintech and the
+Digital Transformation of Financial Services: Implications for Market Structure and
+Public Policy", BIS Paper no 117.
+
+Financial Stability Board (2017), “Financial stability implications from fintech:
+regulatory and supervisory issues that merit authorities' attention”, June.
+
+--- (2019), “FinTech and market structure in financial services: Market developments
+and potential financial stability implications”, February.
+
+Frost, J (2020), "The economic forces driving fintech adoption across countries”, BIS
+Working Paper no 838, February.
+
+Frost, J, L Gambacorta, Y Huang, HS Shin, and P Zbinden (2019), “BigTech and the
+changing structure of financial intermediation”, Economic Policy, vol 34, no 100, pp
+761-99.
+
+Frost, J, L Gambacorta and HS Shin (2021), “From financial innovation to inclusion”,
+Finance & Development, March.
+
+Gambacorta, Y Huang, Z Li, H Qiu and S Chen (2020), “Data vs collateral”, BIS Working
+Paper 881, September.
+
+Goldfarb, A and C Tucker (2019), “Digital Economics”, Journal of Economic Literature,
+vol 57, no 1, pp 343.
+
+Group of central banks (2020), "Central bank digital currencies: foundational
+principles and core features”, Joint Report, no 1, October.
+
+Hau, H, Y Huang, H Shan and Z Sheng (2020), “FinTech Credit and Entrepreneurial
+Growth", Working Paper.
+
+Hua, XP and YP Huang (2020), “Understanding China's fintech sector: development,
+impacts and risks”, The European Journal of Finance.
+
+Jagtiani, J and C Lemieux (2018), “Do fintech lenders penetrate areas that are
+underserved by traditional banks?”, Journal of Economics and Business, vol 100, pp
+43-54.
+
+Jenik, |, T Lyman and A Nava (2017), "Crowdfunding and Financial Inclusion”,
+Consultative Group to Assist the Poor (CGAP) Working Paper.
+
+Jullien, B and W Sand-Zantman (2020), “The Economics of Platforms: A Theory Guide
+for Competition Policy”, Toulouse School of Economics Digital Center Policy Paper.
+
+Kamepalli, S K, R Rajan and L Zingales (2020): "Kill zone", NBER Working Paper, no
+27146.
+
+Khan, L (2017), "“Amazon's Antitrust Paradox”, Yale Law Journal, vol 126.
+
+Lamoreaux, N (2020), “The Problem of Bigness: From Standard Oil to Google”, Journal
+of Economic Perspectives, vol 33, no 3, pp 94-117.
+
+Luohan Academy (2019), “Digital Technology and Inclusive Growth", Annual Report,
+January.
+
+Moeser, M (2020), "Google Pay overhaul adds in-app banking with Citi, Stanford FCU
+and others”, PaymentsSource, November.
+
+Platform-based business models and financial inclusion 29
+National Payment Corporation of India (NPCI) (2021), “Standard Operating Procedure
+(SOP) — Market Share Cap for Third Party Application Providers (TPAP)”, Circular,
+March.
+
+Padilla, J and M de la Mano (2018), “Big Tech Banking", Journal of Competition Law &
+Economics, vol 14, no 4, pp 494-526.
+
+Penrose, J (2021), “Power to the people: independent report on competition policy”,
+February.
+
+Philippon, T (2020), “On fintech and financial inclusion”, BIS Working Paper no 841,
+February.
+
+Restoy, F (2021), “Fintech regulation: how to achieve a level playing field”, FSI
+Occasional Paper no 17, February.
+
+Rochet, JC and J Tirole (2008), “Tying in two-sided markets and the honor all cards
+rule", International Journal of Industrial Organization, vol 26, no 6, pp 133347.
+
+Sahay, R, M Cihák, P N'Diaye, A Barajas, S Mitra, A Kyobe, Y Mooi and S Yousefi (2015),
+“Financial inclusion: can it meet multiple macroeconomic goals?”, IMF Staff Discussion
+Note no 15/17.
+
+Singh, M (2020), “Walmart's PhonePe zips past Google Pay in India as UPI tops 2B
+monthly transactions”, TechCrunch, November.
+
+Sotom ayor, N, J Talledo and S Wong (2018), “Determinants of financial inclusion in
+Peru: Recent Evidence from the Demand Side”, SBS Working Paper, DT/06/2018.
+
+Stulz, R (2019), “FinTech, BigTech, and the Future of Banks”, Fisher College of Business
+Working Paper no. 2019-03-020,
+
+UK Competition and Markets Authority (CMA) (2020a), "Online platforms and digital
+advertising: Market study final report”, 1 July.
+
+--- (2020b), “Advice of the Digital Markets Taskforce: A New Pro-Com petition Regime
+for Digital Markets", December 8 2020.
+
+United Nations Secretary-General's Special Advocate for Inclusive Finance for
+Development (UNSGSA) FinTech Working Group and Cambridge Centre for
+Alternative Finance (CCAF) (2019), “Early Lessons on Regulatory Innovations to Enable
+Inclusive Fintech: Innovation Offices, Regulatory Sandboxes, and Regtech”, February,
+
+World Bank (2018), “The Global Findex Database: Measuring Financial Inclusion and
+the Fintech Revolution”, April.
+
+Zetzsche, D, W Birdthistle, D Arner and R Buckley (2020), “Digital Finance Platforms:
+Toward a New Regulatory Paradigm”, University of Pennsylvania Journal of Business
+Law, vol 23, no 1.
+
+30 Platform-based business models and financial inclusion

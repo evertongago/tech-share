@@ -1,0 +1,21 @@
+name: hub-env
+
+channels:
+   - conda-forge
+ 
+dependencies:
+   - python=3.9
+   - jupyter
+   - requests
+   - pandas
+   - tensorflow
+   - pip:
+      - joblib
+      - transformers
+      - scikit-learn
+      - matplotlib
+      - openai
+      - tiktoken
+      - plotly
+      - langchain
+      - chromadb
